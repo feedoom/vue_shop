@@ -72,6 +72,7 @@ export default {
         // 弹框登录信息
         if (res.meta.status !== 200) return this.$message.error('登录失败')
         this.$message.success('登录成功')
+        console.log(this)
 
         // 保存token
         window.sessionStorage.setItem('token', res.data.token)
