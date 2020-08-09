@@ -1,24 +1,37 @@
-# vue_shop
+# 电商后台管理系统
 
-## Project setup
-```
-npm install
-```
+用户列表
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![](./show_pics/用户列表.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+角色列表
 
-### Lints and fixes files
-```
-npm run lint
-```
+![](./show_pics/角色列表.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+修改用户
+
+![](./show_pics/修改用户.png)
+
+权限列表
+
+![](./show_pics/权限列表.png)
+
+商品列表
+
+![](./show_pics/商品列表.png)
+
+添加商品
+
+![](./show_pics/添加商品.png)
+
+分类参数
+
+![](./show_pics/分类参数.png)
+
+商品分类
+
+![](./show_pics/商品分类.png)
+
+数据报表
+
+![](./show_pics/数据报表.png)
