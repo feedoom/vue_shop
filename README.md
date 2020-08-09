@@ -2,36 +2,36 @@
 
 用户列表
 
-![](./show_pics/用户列表.png)
+[![aTsPn1.png](https://s1.ax1x.com/2020/08/09/aTsPn1.png)](https://imgchr.com/i/aTsPn1)
 
 角色列表
 
-![](./show_pics/角色列表.png)
+[![aTrolj.png](https://s1.ax1x.com/2020/08/09/aTrolj.png)](https://imgchr.com/i/aTrolj)
 
 修改用户
 
-![](./show_pics/修改用户.png)
+[![aTrbmq.png](https://s1.ax1x.com/2020/08/09/aTrbmq.png)](https://imgchr.com/i/aTrbmq)
 
 权限列表
 
-![](./show_pics/权限列表.png)
+[![aTr0YD.png](https://s1.ax1x.com/2020/08/09/aTr0YD.png)](https://imgchr.com/i/aTr0YD)
 
 商品列表
 
-![](./show_pics/商品列表.png)
+[![aTrL7V.png](https://s1.ax1x.com/2020/08/09/aTrL7V.png)](https://imgchr.com/i/aTrL7V)
 
 添加商品
 
-![](./show_pics/添加商品.png)
+[![aTspc9.png](https://s1.ax1x.com/2020/08/09/aTspc9.png)](https://imgchr.com/i/aTspc9)
 
 分类参数
 
-![](./show_pics/分类参数.png)
+[![aTrq00.png](https://s1.ax1x.com/2020/08/09/aTrq00.png)](https://imgchr.com/i/aTrq00)
 
 商品分类
 
-![](./show_pics/商品分类.png)
+[![aTry6A.png](https://s1.ax1x.com/2020/08/09/aTry6A.png)](https://imgchr.com/i/aTry6A)
 
 数据报表
 
-![](./show_pics/数据报表.png)
+[![aTr6OI.png](https://s1.ax1x.com/2020/08/09/aTr6OI.png)](https://imgchr.com/i/aTr6OI)
